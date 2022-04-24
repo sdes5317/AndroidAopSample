@@ -1,4 +1,4 @@
-package com.example.myapplication.aspectj;
+package com.example.myapplication.OneFolder;
 
 import org.aspectj.lang.annotation.Aspect;
 
@@ -6,6 +6,6 @@ import org.aspectj.lang.annotation.Aspect;
 public class JavaTargetExample {
     @InjectSpan
     public void demonstrateJavaAOP() {
-        Object aa = new Object(){};
+
     }
 }

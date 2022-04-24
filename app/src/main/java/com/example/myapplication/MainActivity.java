@@ -2,7 +2,7 @@ package com.example.myapplication;
 
 import android.os.Bundle;
 
-import com.example.myapplication.aspectj.JavaTargetExample;
+import com.example.myapplication.OneFolder.JavaTargetExample;
 import com.google.android.material.snackbar.Snackbar;
 
 import androidx.appcompat.app.AppCompatActivity;
